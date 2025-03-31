@@ -135,4 +135,22 @@
   </tr>
 </table>
 
-### Customer Demographics Analysis
+### 🧑‍🤝‍🧑 Customer Demographics Analysis
+- The 45-54 age group leads in total sales ($17,955,887) and profit ($7,379,677) with the highest order volume (33,256). 
+- The 55-64 age group follows with $12,025,501 in sales and $4,997,581 in profit, ranking second in orders (22,742). 
+- The 65+ age group generates $9,022,757 in sales and $3,763,030 in profit, with 21,439 orders. 
+- The 35-44 age group has the lowest sales ($6,911,233) and profit ($2,842,460), along with the fewest orders (14,276), indicating weaker engagement compared to the others.
+
+#### Top 10 Customers by Sales
+| Full Name         | Total Sales | Age Group | City + Country                |
+|-------------------|-------------|-----------|-------------------------------|
+| Gabrielle Edwards | $100,526    | 55-64     | Milwaukie, United States      |
+| Maurice Goel      | $96,343     | 45-54     | Paris, France                 |
+| Andre Sara        | $91,792     | 35-44     | Warrington, United Kingdom    |
+| Blake Diaz        | $89,716     | 55-64     | Gateshead, United Kingdom     |
+| Kelvin Lin        | $87,169     | 65+       | Bendigo, Australia            |
+| Meredith Martin   | $86,445     | 45-54     | Burlingame, United States     |
+| Austin Kumar      | $86,364     | 55-64     | Shawnee, Canada               |
+| Alyssa Diaz       | $85,040     | 45-54     | Cliffside, Canada             |
+| Lacey Zheng       | $82,967     | 65+       | Pantin, France                |
+| Grace Bailey      | $82,952     | 45-54     | Coronado, United States       |

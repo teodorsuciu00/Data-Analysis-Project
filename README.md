@@ -10,7 +10,6 @@ We need a dashboard that gives us a clear view of overall sales performance, pro
 ## 🧩 Key Questions to Answer in the Report:
 ### 1. What are the total sales and profit by year, quarter and month?
 #### Overall Insights:
-The business has generated $45.9M in total sales and $18.98M in profit, maintaining an average profit margin of 41.34%.
-
-91,713 total orders have been processed, indicating a significant volume of transactions over time.
+- The business has generated $45.9M in total sales and $18.98M in profit, maintaining an average profit margin of 41.34%.
+- 91,713 total orders have been processed, indicating a significant volume of transactions over time.
 

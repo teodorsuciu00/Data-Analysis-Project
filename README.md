@@ -11,7 +11,10 @@
 
 ## Screenshots:
 ![SalesOverview](https://github.com/user-attachments/assets/cd766ab5-c909-4dc3-b193-ffc7dd62aed9)
+![image](https://github.com/user-attachments/assets/546cb91c-4848-4b3c-b184-0885bc102752)
 ![Demographics Overview](https://github.com/user-attachments/assets/60e9e897-37ef-4c15-aeef-580689bc24ba)
+![image](https://github.com/user-attachments/assets/2e3e8fbe-14f4-455a-94ad-e1fc93685fe0)
+
 
 ### 📈 Interpretation of Sales & Profit Analysis
 #### Overall Insights:

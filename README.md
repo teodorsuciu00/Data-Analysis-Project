@@ -22,3 +22,12 @@ We need a dashboard that gives us a clear view of overall sales performance, pro
 - 2025 is showing a promising increase in profit margin, suggesting better profitability strategies.
 
 ### 2. Which product categories bring the most revenue and profit?
+#### Overall Insights:
+- The sales distribution across categories is highly imbalanced, with bikes dominating both revenue and quantity of sales, while accessories have the highest profit margin.
+#### Key Insights:
+- Bikes account for nearly all sales (96.38%), making them the company’s primary revenue driver. However, their profit margin (40.86%) is lower than accessories.
+- Accessories have the highest profit margin (62.60%), suggesting that they contribute significantly to profitability despite lower sales volume.
+- Clothing has the lowest revenue and quantity of sales, and its profit margin (39.99%) is slightly lower than that of bikes.
+#### Key Takeaways:
+- Since bikes generate most of the revenue, maintaining or expanding this category is crucial.
+- Investing in accessories could be a high-margin opportunity, as they bring the highest profitability relative to revenue.

@@ -9,6 +9,8 @@ We need a dashboard that gives us a clear view of overall sales performance, pro
 
 ## Screenshots:
 ![SalesOverview](https://github.com/user-attachments/assets/cd766ab5-c909-4dc3-b193-ffc7dd62aed9)
+![Demographics Overview](https://github.com/user-attachments/assets/60e9e897-37ef-4c15-aeef-580689bc24ba)
+
 
 ## 🧩 Key Questions to Answer in the Report:
 ### 1. What are the total sales and profit by year and month?

@@ -6,3 +6,6 @@ Right now, they don’t have a single report that answers key business questions
 
 ## 📊 Business Need:
 "We need a dashboard that gives us a clear view of overall sales performance, profit trends, and regional dynamics—broken down by product category, reseller channel, and time (month/quarter/year). We also want to identify our most profitable products and regions, and spot trends like seasonality or declining performance."
+
+## 🧩 Key Questions to Answer in the Report:
+### 1. What are the total sales and profit by year, quarter and month?

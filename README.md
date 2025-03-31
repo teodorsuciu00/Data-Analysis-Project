@@ -17,3 +17,6 @@ We need a dashboard that gives us a clear view of overall sales performance, pro
 - 2024 was the strongest year in terms of revenue, with $25.8M in total sales and 80,817 orders. However, the profit margin (41.41%) is close to the overall average.
 - 2023 had a slightly higher profit margin (42.11%) than 2024, but with significantly fewer orders (5,786), suggesting that either fewer but more profitable products were sold or there were pricing changes.
 - 2022 had the lowest profit margin (40.31%), and sales volume was the lowest among full years, indicating either increased costs or lower pricing strategies.
+#### Key Takeaways:
+- 2024 was the best-performing year in terms of sales volume and total profit.
+- 2025 is showing a promising increase in profit margin, suggesting better profitability strategies.

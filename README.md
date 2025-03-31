@@ -20,3 +20,5 @@ We need a dashboard that gives us a clear view of overall sales performance, pro
 #### Key Takeaways:
 - 2024 was the best-performing year in terms of sales volume and total profit.
 - 2025 is showing a promising increase in profit margin, suggesting better profitability strategies.
+
+### 2. Which product categories bring the most revenue and profit?

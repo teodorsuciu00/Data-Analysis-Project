@@ -45,4 +45,15 @@
 - Australia follows closely with slightly lower sales and profit, but a similar profit margin (40.99%).
 - The UK, while still profitable, has a significantly lower order count compared to the US and Australia, which may indicate lower demand or market saturation.
 
-### 🏆 Top 10 Best & Worst Performing Products by Profit
+### 🏆 Top 10 Best & Worst Performing Products by Sales
+#### Top 10 Best Performing Products
+| Mountain-200 Black, 38	| $2,977,094 |
+| Mountain-200 Silver, 38 |	$2,671,468 |
+| Mountain-200 Silver, 42	| $2,315,350 |
+| Mountain-200 Silver, 46	| $2,113,842 |
+| Mountain-200 Black, 42  | $2,111,063 |
+| Mountain-200 Black, 46	| $1,784,191 |
+| Road-150 Red, 56		    | $1,771,244 |
+| Road-150 Red, 62		    | $1,542,234 |
+| Road-150 Red, 48		    | $1,502,873 |
+| Road-150 Red, 52	      | $1,449,199 |

@@ -13,8 +13,6 @@
 ![SalesOverview](https://github.com/user-attachments/assets/cd766ab5-c909-4dc3-b193-ffc7dd62aed9)
 ![Demographics Overview](https://github.com/user-attachments/assets/60e9e897-37ef-4c15-aeef-580689bc24ba)
 
-
-## 📊 Executive Summary & Key Insights
 ### 📈 Interpretation of Sales & Profit Analysis
 #### Overall Insights:
 - The business has generated $45.9M in total sales and $18.98M in profit, maintaining an average profit margin of 41.34%.
@@ -40,10 +38,60 @@
 - Investing in accessories could be a high-margin opportunity, as they bring the highest profitability relative to revenue.
 
 ### 🌍 Regional Performance: Best & Worst in Terms of Profit Margin
-#### Key Insights:
 - The United States leads in both total revenue and profit, with a 41.57% profit margin and the highest number of orders (33,765).
 - Australia follows closely with slightly lower sales and profit, but a similar profit margin (40.99%).
 - The UK, while still profitable, has a significantly lower order count compared to the US and Australia, which may indicate lower demand or market saturation.
+
+#### 🏙️ Top 10 Cities by Total Sales
+##### Best selling cities
+- London ranks first with total sales of $1,299,278, making it the most profitable city.
+- Paris follows with $958,205, showing strong sales in the European market.
+- Wollongong ($695,741) and Bendigo ($471,944) show that Australian cities contribute significantly to total revenue.
+- Other cities like Brisbane, Geelong, and Hobart also make the list, reinforcing Australia’s strong presence in sales performance.
+##### Worst selling cities
+- Byron and Chehalis rank at the bottom with only $5 in sales, showing minimal market activity.
+- Carol Stream and Charlotte follow with $7, indicating very limited sales.
+- Baytown and Clarkston, with sales of $25 and $29, still underperform compared to other cities.
+- Chalk Riber, Bradenton, Chantilly, and Central Valley have slightly higher sales ($37 to $51), but remain far behind in overall revenue.
+
+<table>
+  <tr>
+    <td>
+    
+#### Top 10 Best Selling Cities
+| City        | Total Sales  |
+|-------------|--------------|
+| London      | $1,299,278   |
+| Paris       | $958,205     |
+| Wollongong  | $695,741     |
+| Bendigo     | $471,944     |
+| Hobart      | $462,114     |
+| Warrnambool | $453,867     |
+| Goulburn    | $450,646     |
+| Geelong     | $450,259     |
+| Brisbane    | $449,505     |
+| York        | $439,345     |
+ 
+ </td>
+  <td>
+    
+#### Top 10 Worst Performing Cities
+| City          | Total Sales  |
+|---------------|--------------|
+| Byron         | $5           |
+| Chehalis      | $5           |
+| Carol Stream  | $7           |
+| Charlotte     | $7           |
+| Baytown       | $25          |
+| Clarkston     | $29          |
+| Chalk Riber   | $37          |
+| Bradenton     | $39          |
+| Chantilly     | $40          |
+| Central Valley| $51          |
+  </td>
+  </tr>
+</table>
+
 
 ### 🏆 Top 10 Best & Worst Performing Products by Sales
 #### 📈 Top 10 Best Selling Products vs. 🚨 Top 10 Worst Performing Products

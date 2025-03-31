@@ -46,6 +46,12 @@
 - The UK, while still profitable, has a significantly lower order count compared to the US and Australia, which may indicate lower demand or market saturation.
 
 ### 🏆 Top 10 Best & Worst Performing Products by Sales
+#### 📈 Top 10 Best Selling Products vs. 🚨 Top 10 Worst Performing Products
+
+<table>
+  <tr>
+    <td>
+    
 #### Top 10 Best Selling Products
 | Product Name              | Total Sales  |
 |---------------------------|--------------|
@@ -59,6 +65,10 @@
 | Road-150 Red, 62          | $1,542,234   |
 | Road-150 Red, 48          | $1,502,873   |
 | Road-150 Red, 52          | $1,449,199   |
+
+  </td>
+  <td>
+
 #### Top 10 Worst Performing Products
 | Product Name            | Total Sales  |
 |-------------------------|--------------|
@@ -72,3 +82,7 @@
 | Half-Finger Gloves, L   | $14,523      |
 | Road Bottle Cage        | $15,391      |
 | Mountain Tire Tube      | $15,444      |
+
+  </td>
+  </tr>
+</table>

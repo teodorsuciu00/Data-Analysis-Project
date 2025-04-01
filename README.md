@@ -1,11 +1,11 @@
 # Data-Analysis-Project
-## 🧠 Business Scenario: Executive Sales & Profitability Insights Dashboard
+## Business Scenario: Executive Sales & Profitability Insights Dashboard
 ### Background: 
 - AdventureWorks is a global manufacturing company that sells products both online and through resellers. 
 - Executives and managers need a centralized dashboard to make data-driven decisions. 
 - Right now, they don’t have a single report that answers key business questions efficiently.
 
-## 📊 Business Need:
+## Business Need:
 - We need a dashboard that gives us a clear view of overall sales performance, profit trends, and regional dynamics—broken down by product category and time (month/year).
 - We also want to identify our most profitable products and regions, and spot trends like seasonality or declining performance.
 
@@ -16,7 +16,7 @@
 ![image](https://github.com/user-attachments/assets/2e3e8fbe-14f4-455a-94ad-e1fc93685fe0)
 
 
-### 📈 Interpretation of Sales & Profit Analysis
+### Interpretation of Sales & Profit Analysis
 #### Overall Insights:
 - The business has generated $45.9M in total sales and $18.98M in profit, maintaining an average profit margin of 41.34%.
 - 91,713 total orders have been processed, indicating a significant volume of transactions over time.
@@ -29,7 +29,7 @@
 - 2024 was the best-performing year in terms of sales volume and total profit.
 - 2025 is showing a promising increase in profit margin, suggesting better profitability strategies.
 
-### 🏷️ Product Category Analysis: Revenue & Profitability
+### Product Category Analysis: Revenue & Profitability
 #### Overall Insights:
 - The sales distribution across categories is highly imbalanced, with bikes dominating both revenue and quantity of sales, while accessories have the highest profit margin.
 #### Key Insights:
@@ -40,12 +40,12 @@
 - Since bikes generate most of the revenue, maintaining or expanding this category is crucial.
 - Investing in accessories could be a high-margin opportunity, as they bring the highest profitability relative to revenue.
 
-### 🌍 Regional Performance: Best & Worst in Terms of Profit Margin
+### Regional Performance: Best & Worst in Terms of Profit Margin
 - The United States leads in both total revenue and profit, with a 41.57% profit margin and the highest number of orders (33,765).
 - Australia follows closely with slightly lower sales and profit, but a similar profit margin (40.99%).
 - The UK, while still profitable, has a significantly lower order count compared to the US and Australia, which may indicate lower demand or market saturation.
 
-#### 🏙️ Top 10 Cities by Total Sales
+#### Top 10 Cities by Total Sales
 ##### Best selling cities
 - London ranks first with total sales of $1,299,278, making it the most profitable city.
 - Paris follows with $958,205, showing strong sales in the European market.
@@ -96,8 +96,8 @@
 </table>
 
 
-### 🏆 Top 10 Best & Worst Performing Products by Sales
-#### 📈 Top 10 Best Selling Products vs. 🚨 Top 10 Worst Performing Products
+### Top 10 Best & Worst Performing Products by Sales
+#### Top 10 Best Selling Products vs. Top 10 Worst Performing Products
 
 <table>
   <tr>
@@ -138,7 +138,7 @@
   </tr>
 </table>
 
-### 🧑‍🤝‍🧑 Customer Demographics Analysis
+### Customer Demographics Analysis
 - The 45-54 age group leads in total sales ($17,955,887) and profit ($7,379,677) with the highest order volume (33,256). 
 - The 55-64 age group follows with $12,025,501 in sales and $4,997,581 in profit, ranking second in orders (22,742). 
 - The 65+ age group generates $9,022,757 in sales and $3,763,030 in profit, with 21,439 orders. 
